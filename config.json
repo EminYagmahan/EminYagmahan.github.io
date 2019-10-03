@@ -3,9 +3,16 @@
   "username": "EminYagmahan",
   "name": "Emin Yagmahan",
   "userimg": "https://avatars2.githubusercontent.com/u/47952672?v=4",
-  "sort": "star",
-  "order": "desc",
+  "sort": "created",
+  "order": "asc",
   "includeFork": true,
-  "theme": "dark.css"
+  "theme": "dark.css",
+  "types": [
+   "owner"
+  ],
+  "twitter": null,
+  "linkedin": null,
+  "medium": null,
+  "dribbble": null
  }
 ]
